@@ -16,5 +16,6 @@
 	},
 	"autoload"   : {
 		"classmap": ["wpthumb.php"]
-	}
+	},
+	"type": "wordpress-plugin"
 }
